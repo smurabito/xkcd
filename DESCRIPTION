@@ -12,3 +12,6 @@ URL: https://github.com/smurabito/xkcd
 BugReports: https://github.com/smurabito/xkcd/issues
 Imports: 
     jsonlite
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
